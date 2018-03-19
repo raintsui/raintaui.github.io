@@ -1,0 +1,1 @@
+www.raintsui.com(在github中写入域名不带有www，以后访问时带不带www都没关系，但是一旦添加就访问时就必须要带）
